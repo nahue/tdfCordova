@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="stylesheets/app.css">
+
+    <script src="javascripts/vendor.js"></script>
+    <script src="dust-core-0.3.0.min.js"></script>
+    <script src="js/listTemplate.js"></script>
+    <script src="js/app.js"></script>
+    <script src="cordova.js"></script>
+
+</head>
+<body>
+
+<div data-role="page" id="index">
+
+    <div data-role="header">
+        <h1>Fotos</h1>
+        <a href="#" title="Acerca de">Acerca de</a>
+    </div><!-- /header -->
+
+    <div data-role="content" id="contenido">
+
+                <ul data-role="listview" id="lista-categorias-fotos"
+                    data-inset="true"
+                    data-filter="true"
+                    data-filter-placeholder="Buscar...">
+<!--
+                    <li data-role="list-divider">Paisajes</li>
+                    <li><a href="#">Item 1</a></li>
+                    <li><a href="#">Item 2</a></li>
+                    <li><a href="#">Item 3</a></li>
+                    <li data-role="list-divider">Lugares</li>
+                    <li><a href="#">Item 4</a>
+                        <ul>
+                            <li>Prueba</li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Item 5</a></li>
+                    <li><a href="#">Item 6</a></li>
+-->
+        </ul>
+
+    </div><!-- /content -->
+
+    <div data-role="footer" data-position="fixed">
+        <a href="#" title="Acerca de">Acerca de</a>
+        <h6>Copyright</h6>
+    </div><!-- /footer -->
+</div><!-- /page -->
+
+<script>
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src='//www.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+</body>
+</html>

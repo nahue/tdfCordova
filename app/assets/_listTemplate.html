@@ -1,0 +1,22 @@
+<script id="listarFotos" type="text/html">
+    <div data-role="page" data-add-back-btn="true" data-url="listpage&term={search_term}&page={page_number}" data-external-page="true" id="listpage">
+
+        <div data-role="content">
+            <ul data-role="listview">
+                {#fotos}
+                <li>
+                    <a href="{url.self}" class="item-{@idx}{.}{/idx}">
+                        <article>
+                            <header>
+                                <img src="{url.self}" alt="{title}" />
+                                <h1>{nombre}</h1>
+                            </header>
+                        </article>
+                    </a>
+                </li>
+                {/fotos}
+            </ul>
+        </div>
+
+    </div>
+</script>
