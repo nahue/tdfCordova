@@ -2,9 +2,8 @@
 App =
   proxy: require 'proxy'
 
-
-
   initialize: ->
+    console.log navigator.userAgent
     $.when(this.proxy.getFotos()).done (def) ->
       $.each def, (k, v) ->
         $("#lista-categorias-fotos").append("<li><a href='#' title='"+v['nombre']+"' data-id='"+v['id']+"'\>" + v['nombre'] + "</a></li>").listview "refresh"
@@ -21,11 +20,6 @@ App =
     Object.freeze? this
 
   setWallpaper: (result) ->
-    console.log("isFile: " + result.isFile)
-    console.log("isDirectory: " + result.isDirectory)
-    console.log("name: " + result.name)
-    console.log("fullPath: " + result.fullPath)
-
     $.mobile.loading "hide"
     blackberry.system.setWallpaper "file://" + result.fullPath
     alert "Se cambio el fondo de pantalla"
@@ -39,7 +33,6 @@ App =
       $.mobile.loading "show",
         textVisible: false
         theme: "c"
-      console.log url
       blackberry.io.filetransfer.download url, "/accounts/1000/shared/camera/fondoTDF.jpg", this.setWallpaper, this.downloadError
     catch e
       alert "Exception in fileDownload: " + e
