@@ -4,18 +4,30 @@
     <list default="true" id="827e360a-b246-4c10-bcec-3c3060053d1e" name="Default" comment="" />
     <ignored path="tdfCordova.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378390246656" ignored="false" />
-    <file path="/app.js.coffee" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378339086100" ignored="false" />
+    <file path="/index.html" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378781698566" ignored="false" />
+    <file path="/app.js.coffee" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378491121833" ignored="false" />
     <file path="/app2.js" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378379070235" ignored="false" />
     <file path="/prueba.coffee" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378379504906" ignored="false" />
     <file path="/prueba.js" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378379986997" ignored="false" />
-    <file path="/prueba.js.coffee" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378379629459" ignored="false" />
-    <file path="/package.json" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378387047443" ignored="false" />
+    <file path="/prueba.js.coffee" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378437194541" ignored="false" />
+    <file path="/package.json" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378486874435" ignored="false" />
     <file path="/jquery.mobile-1.3.2.css" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378383316259" ignored="false" />
     <file path="/dummy.xml" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378384096706" ignored="false" />
-    <file path="/app.js" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378391982320" ignored="false" />
-    <file path="/_listTemplate.html" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378391855512" ignored="false" />
+    <file path="/app.js" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378411852021" ignored="false" />
+    <file path="/_listTemplate.html" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378411003806" ignored="false" />
     <file path="/listTemplate.js" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378389914819" ignored="false" />
+    <file path="$PROJECT_DIR$/../tdfClient/config.xml" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378408399684" ignored="false" />
+    <file path="/config.xml" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378408399350" ignored="false" />
+    <file path="/config.coffee" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378756298659" ignored="false" />
+    <file path="/init.js" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378475556560" ignored="false" />
+    <file path="$PROJECT_DIR$/build/src/bar-descriptor.xml" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378485954249" ignored="false" />
+    <file path="/init.js.coffee" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378488848361" ignored="false" />
+    <file path="/initialize.coffee" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378783988353" ignored="false" />
+    <file path="/verFoto.dust" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378784564150" ignored="false" />
+    <file path="/application.coffee" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378782655567" ignored="false" />
+    <file path="/listarFotos.dust" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378784650760" ignored="false" />
+    <file path="/proxy.coffee" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378777921671" ignored="false" />
+    <file path="/BlackBerry-JQM-Init-1.0.0.js" changelist="827e360a-b246-4c10-bcec-3c3060053d1e" time="1378784152429" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,37 +47,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="application.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/application.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="49" selection-start="419" selection-end="602" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proxy.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/proxy.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="64" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="initialize.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/initialize.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlackBerry-JQM-Init-1.0.0.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/scripts/vendor/BlackBerry-JQM-Init-1.0.0.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="config.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="34" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="16" selection-start="267" selection-end="267" vertical-scroll-proportion="0.29207233">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listTemplate.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/js/listTemplate.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="986" selection-start="986" selection-end="986" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_listTemplate.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/_listTemplate.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="17" selection-start="737" selection-end="737" vertical-scroll-proportion="-10.625">
+            <state line="21" column="50" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -74,7 +95,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="0" selection-start="2303" selection-end="2303" vertical-scroll-proportion="-23.333334">
+            <state line="28" column="8" selection-start="1025" selection-end="1201" vertical-scroll-proportion="-13.333333">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listarFotos.dust" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/templates/listarFotos.dust">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="51" selection-start="875" selection-end="875" vertical-scroll-proportion="0.5007587">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verFoto.dust" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/verFoto.dust">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -90,27 +129,27 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/assets/js/app.js.coffee" />
-        <option value="$PROJECT_DIR$/app/assets/js/app2.js" />
-        <option value="$PROJECT_DIR$/app/prueba.coffee" />
-        <option value="$PROJECT_DIR$/app/prueba.js" />
-        <option value="$PROJECT_DIR$/app/assets/prueba.js.coffee" />
-        <option value="$PROJECT_DIR$/app/assets/js/prueba.js" />
-        <option value="$PROJECT_DIR$/app/assets/css/jquery-mobile.css" />
-        <option value="$PROJECT_DIR$/vendor/styles/main.css" />
-        <option value="$PROJECT_DIR$/build/web/stylesheets/app.css" />
-        <option value="$PROJECT_DIR$/vendor/styles/jquery.mobile-1.3.2.css" />
+        <option value="$PROJECT_DIR$/app/assets/app.js.coffee" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/build/web/js/app.js" />
-        <option value="$PROJECT_DIR$/app/assets/js/listTemplate.js" />
-        <option value="$PROJECT_DIR$/app/assets/_listTemplate.html" />
+        <option value="$PROJECT_DIR$/views/templates/listarFotos.dust" />
+        <option value="$PROJECT_DIR$/app/init.js.coffee" />
+        <option value="$PROJECT_DIR$/app/app.js.coffee" />
+        <option value="$PROJECT_DIR$/build/web/javascripts/views.js" />
+        <option value="$PROJECT_DIR$/build/web/javascripts/vendor.js" />
+        <option value="$PROJECT_DIR$/vendor/scripts/jquery-1.9.1.js" />
+        <option value="$PROJECT_DIR$/config.coffee" />
+        <option value="$PROJECT_DIR$/app/proxy.coffee" />
+        <option value="$PROJECT_DIR$/app/application.coffee" />
+        <option value="$PROJECT_DIR$/app/initialize.coffee" />
+        <option value="$PROJECT_DIR$/vendor/scripts/vendor/BlackBerry-JQM-Init-1.0.0.js" />
         <option value="$PROJECT_DIR$/app/assets/index.html" />
-        <option value="$PROJECT_DIR$/app/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/app/templates/verFoto.dust" />
+        <option value="$PROJECT_DIR$/app/templates/listarFotos.dust" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-18" />
+    <option name="x" value="21" />
     <option name="y" value="22" />
     <option name="width" value="1432" />
     <option name="height" value="867" />
@@ -141,7 +180,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -170,7 +208,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -184,11 +222,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -202,15 +240,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdfCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdfCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="back" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdfCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdfCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdfCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdfCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -229,28 +313,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tdfCordova" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tdfCordova" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,27 +340,31 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="settings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tdfwp/app/assets/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tdfClient" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images" />
       <recent name="$PROJECT_DIR$/vendor/scripts/vendor" />
+      <recent name="$PROJECT_DIR$/vendor/styles" />
       <recent name="$PROJECT_DIR$/app/assets" />
       <recent name="$PROJECT_DIR$/app/assets/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/assets" />
-      <recent name="$PROJECT_DIR$/app/stylesheets" />
       <recent name="$PROJECT_DIR$/vendor/styles" />
-      <recent name="$PROJECT_DIR$/app/assets/js" />
+      <recent name="$PROJECT_DIR$/vendor/scripts/vendor" />
+      <recent name="$PROJECT_DIR$/vendor/scripts" />
+      <recent name="$PROJECT_DIR$/back" />
       <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
@@ -323,7 +389,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -356,26 +422,46 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-18" y="22" width="1432" height="867" extended-state="0" />
+    <frame x="21" y="22" width="1432" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982257" sideWeight="0.95046854" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.04953146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -437,120 +523,120 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/styles/main.css">
+    <entry file="file://$PROJECT_DIR$/node_modules/sugar/lib/string.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/styles/jquery.mobile-1.3.2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="777" column="40" selection-start="41153" selection-end="41153" vertical-scroll-proportion="0.5618321">
-          <folding>
-            <element signature="e#94985#95072#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/dust/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/web/development.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/web/production.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.33379695">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/scripts/vendor/dust-full-0.3.0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="38" selection-start="2351" selection-end="2351" vertical-scroll-proportion="0.8057554">
+        <state line="30" column="6" selection-start="660" selection-end="660" vertical-scroll-proportion="-0.73880595">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.02086231">
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.02276176">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/web/js/app.js">
+    <entry file="file://$PROJECT_DIR$/vendor/scripts/vendor/BlackBerry-JQM-1.0.0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/styles/BlackBerry-JQM-1.0.0.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/scripts/jquery-1.9.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="11" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/styles/jquery.mobile-1.3.2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="34" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
+        <state line="21" column="50" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/web/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/application.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="49" selection-start="419" selection-end="602" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proxy.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="64" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/scripts/vendor/jquery.mobile-1.3.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/initialize.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/scripts/vendor/BlackBerry-JQM-Init-1.0.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/verFoto.dust">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="2303" selection-end="2303" vertical-scroll-proportion="-23.333334">
+        <state line="28" column="8" selection-start="1025" selection-end="1201" vertical-scroll-proportion="-13.333333">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/_listTemplate.html">
+    <entry file="file://$PROJECT_DIR$/app/templates/listarFotos.dust">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="17" selection-start="737" selection-end="737" vertical-scroll-proportion="-10.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/js/listTemplate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="986" selection-start="986" selection-end="986" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="16" selection-start="267" selection-end="267" vertical-scroll-proportion="0.29207233">
+        <state line="22" column="51" selection-start="875" selection-end="875" vertical-scroll-proportion="0.5007587">
           <folding />
         </state>
       </provider>

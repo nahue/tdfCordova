@@ -1,0 +1,28 @@
+<div data-role="page" data-url="listarFotos" data-external-page="true" class="listFotos">
+    <div data-role="header">
+        <h1>Fotos de {nombre}</h1>
+    </div>
+    <div data-role="content">
+        <ul data-role="listview" id="lista-categorias-fotos"
+                    data-inset="true"
+                    data-filter="true"
+                    data-filter-placeholder="Buscar...">
+                </ul>
+        <ul data-role="listview">
+            {#fotos}
+            <li>
+                <a href="#" class="item-{@idx}{.}{/idx}" data-image="{imageUrl}" data-id="{id}">
+                    <img src="{thumbUrl}" alt="{nombre}" class="ui-li-thumb"/>
+                    <h2>{nombre}</h2>
+                    <p>{descripcion}</p>
+                </a>
+            </li>
+            {/fotos}
+        </ul>
+    </div>
+     <div data-role="footer" data-position="fixed">
+        <div data-role="actionbar">
+            <div data-role="back"></div>
+        </div>
+    </div>
+</div>

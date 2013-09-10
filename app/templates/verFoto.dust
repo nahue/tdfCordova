@@ -1,0 +1,19 @@
+<div data-role="page" data-external-page="true" data-url="verFoto" id="listpage">
+    <div data-role="header">
+        <h1>{nombre}</h1>
+    </div>
+    <div data-role="content">
+        <div data-role="gridview">
+                    <img src="{imageUrl}" alt="{nombre}" style="width: 100%;"/>
+        </div>
+    </div>
+    <div data-role="footer" data-position="fixed">
+        <div data-role="actionbar">
+            <div data-role="back"></div>
+            <a id="o1" data-role="action" class="setWallpaper" data-image="{imageUrl}">
+                <img src="images/ic_view_image.png" alt="" />
+                <p>Wallpaper</p>
+            </a>
+        </div>
+    </div>
+</div>
