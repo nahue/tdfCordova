@@ -25,7 +25,6 @@ npm-debug.log
 node_modules/
 tmp/
 build/
-build/device/
-build/web/
+build/*
 back/
 node_modules/
