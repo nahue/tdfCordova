@@ -1,4 +1,12 @@
 exports.config =
+  plugins:
+    uglify:
+      mangle: true
+      compress:
+        true
+    cleancss:
+      keepSpecialComments: 0
+      removeEmpty: true
   files:
     javascripts:
       defaultExtension: 'coffee'
